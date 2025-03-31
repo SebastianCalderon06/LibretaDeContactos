@@ -5,7 +5,7 @@ import ec.edu.ups.poo.clases.Persona;
 
 import java.util.GregorianCalendar;
 import java.util.Scanner;
-
+//soy cristian y desde chiquito me dicen junior
 public class Principal {
 
     public static void main(String[] args) {
